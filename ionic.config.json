@@ -1,7 +1,0 @@
-{
-  "name": "oneGoUser",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
