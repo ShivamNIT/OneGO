@@ -47,7 +47,7 @@ add link
     - POST request
     - Body -> from, to and json (example: en hi and jsonObject= { 
                                       "title": "The importance of Regular Exercise",
-                                      "author": "Kartik Dwivedi"
+                                      "author": "Shivam Gupta"
                                   }
                                 )
 
