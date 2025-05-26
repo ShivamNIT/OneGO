@@ -1,3 +1,56 @@
+## 🚀 Getting Started
+
+Follow the steps below to run the project locally.
+
+### 🔧 Backend (Node.js Server)
+
+1. **Navigate to the root directory** of the project (if you're not already there).
+
+2. **Install dependencies**:
+
+```bash
+
+npm install
+
+```
+
+3. **Start the development server**:
+
+```bash
+
+npm run dev
+
+```
+
+`The backend server should now be running at `http://localhost:3000` (or your configured port)`
+
+### 🖥️ Frontend (React App)
+
+1. **Navigate to the `frontend` directory**:
+
+```bash
+
+cd frontend
+
+```
+
+2. **Install frontend dependencies**:
+
+```bash
+
+npm install
+
+```
+
+3. **Start the development server**:
+
+```bash
+
+npm run dev
+
+```
+
+`The frontend app will typically be available at `http://localhost:5173` (Vite's default port).`
 # API's
 
 
