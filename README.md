@@ -131,7 +131,7 @@ IRCTC Api: https://rapidapi.com/IRCTCAPI/api/irctc1/
 ---
 ---
 
-## Video Demo
+## Video Demo / Prototype
 
 Click on the image below to watch the video demo:
 
