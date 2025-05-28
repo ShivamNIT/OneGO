@@ -1,3 +1,14 @@
+**Problem Statement**
+Today’s transportation system—especially when switching between trains, cabs, and buses—is inconvenient and disorganized.
+
+**No Single Platform** – People have to use multiple apps to book different modes of travel, which is time-consuming and confusing.
+**Lack of Coordination** – There's no proper link between train timings and road transport, causing delays and missed connections.
+**Wasted Time and Money** – Without smart planning, travelers often choose longer or more expensive routes.
+**Poor Security** – Sharing personal details across several apps increases the risk of data leaks.
+**Language Difficulties** – Travelers often struggle with apps that are not in their native language, especially in new cities.
+
+
+
 ## 🚀 Getting Started
 
 Follow the steps below to run the project locally.
